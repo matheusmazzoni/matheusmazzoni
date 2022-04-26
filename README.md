@@ -7,7 +7,7 @@
 ![Matheus Mazzoni stats](https://github-readme-stats.vercel.app/api?username=matheusmazzoni&show_icons=true&theme=default)
 
 
-<p><em>DevOpsEnginner at <a href="https://atlastechnol.com/">Atastechnologies</a></br></em></p>
+<p><em>DevOpsEnginner</br></em></p>
 
 
 ---
